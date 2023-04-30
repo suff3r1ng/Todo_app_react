@@ -39,19 +39,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 ## Installation
 
-### Linux: \
+### Linux:
 
 `sudo apt update`\
 `sudo apt install nodejs`\
 `sudo apt install npm`\
 `npm install react`
 
-### Windows: \
+### Windows:
 
-Download [Nodejs](https://nodejs.org/en)\
+Download [Nodejs](https://nodejs.org/en)
 
 Cloning Project
-`git clone https://github.com/suff3r1ng/Todo_app_react.git\` \
+`git clone https://github.com/suff3r1ng/Todo_app_react.git` \
 
 `cd Todo_app_react` \
 `npm i`\
