@@ -37,8 +37,29 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+## Installation
+
+### Linux: \
+
+`sudo apt update`\
+`sudo apt install nodejs`\
+`sudo apt install npm`\
+`npm install react`
+
+### Windows: \
+
+Download [Nodejs](https://nodejs.org/en)\
+
+Cloning Project
+`git clone https://github.com/suff3r1ng/Todo_app_react.git\` \
+
+`cd Todo_app_react` \
+`npm i`\
+`npm run build` - to build production\
+`npm run start`- development
+
 # Deployment
 
-Deploy the app then run on current project directoy.
+Run on current project directoy.
 
 ### `npm run build`
